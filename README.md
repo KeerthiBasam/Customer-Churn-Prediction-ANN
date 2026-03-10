@@ -226,16 +226,6 @@ Prediction: **Customer likely to churn**
 
 ---
 
-## Future Improvements
-
-Possible improvements for this project include:
-
-* Hyperparameter tuning for improved model performance
-* Adding model evaluation metrics such as ROC-AUC and confusion matrix
-* Deploying the application using Docker
-* Hosting the application on cloud platforms such as AWS or GCP
-* Implementing model monitoring and logging
-
 ---
 
 ## Author
